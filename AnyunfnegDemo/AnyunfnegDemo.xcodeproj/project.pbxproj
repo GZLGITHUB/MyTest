@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3453BF891CF6FD3C006C1B52 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3453BF881CF6FD3C006C1B52 /* 1.png */; };
 		34AC5DEF1CF6F34900FDCFA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34AC5DEE1CF6F34900FDCFA3 /* main.m */; };
 		34AC5DF21CF6F34900FDCFA3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 34AC5DF11CF6F34900FDCFA3 /* AppDelegate.m */; };
 		34AC5DF51CF6F34900FDCFA3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34AC5DF41CF6F34900FDCFA3 /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3453BF881CF6FD3C006C1B52 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		34AC5DEA1CF6F34900FDCFA3 /* AnyunfnegDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnyunfnegDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34AC5DEE1CF6F34900FDCFA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		34AC5DF01CF6F34900FDCFA3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 		34AC5DED1CF6F34900FDCFA3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3453BF881CF6FD3C006C1B52 /* 1.png */,
 				34AC5DEE1CF6F34900FDCFA3 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34AC5DFD1CF6F34900FDCFA3 /* LaunchScreen.storyboard in Resources */,
+				3453BF891CF6FD3C006C1B52 /* 1.png in Resources */,
 				34AC5DFA1CF6F34900FDCFA3 /* Assets.xcassets in Resources */,
 				34AC5DF81CF6F34900FDCFA3 /* Main.storyboard in Resources */,
 			);
@@ -496,6 +500,7 @@
 				34AC5E191CF6F34900FDCFA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34AC5E1A1CF6F34900FDCFA3 /* Build configuration list for PBXNativeTarget "AnyunfnegDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				34AC5E1C1CF6F34900FDCFA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34AC5E1D1CF6F34900FDCFA3 /* Build configuration list for PBXNativeTarget "AnyunfnegDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				34AC5E1F1CF6F34900FDCFA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
